@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chan</h1>
 
 <div align="center">
-  - 👨‍💻 All of my projects are available [here](http://nattapolchan.github.io/me). 
+  - 👨‍💻 All of my projects are available <a href="http://nattapolchan.github.io/me">here</a>. 
 </div>
 
 <br />
