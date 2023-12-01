@@ -17,7 +17,7 @@
 </div>
 
 
-👋 Hello, fellow coders! I'm [Your Name], a passionate software engineer on a perpetual quest for elegant solutions.
+👋 Hello, fellow coders! I'm [Your Name], a passionate undergrad student on a perpetual quest for elegant solutions.
 
 ### 💻 Technical Palette
 - 💼 Interested in AI Research.
