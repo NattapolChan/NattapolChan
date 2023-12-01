@@ -20,8 +20,7 @@
 👋 Hello, fellow coders! I'm [Your Name], a passionate software engineer on a perpetual quest for elegant solutions.
 
 ### 💻 Technical Palette
-- 💼 Specializing in [Your Primary Tech Stack].
-- 🚀 Dedicated Neovim user, crafting efficient code 365 days a year.
+- 💼 Interested in AI Research.
 - 📝 Advocate for clean, maintainable, and scalable software architecture.
 
 ### 🌐 About Me
@@ -30,7 +29,7 @@
 - 💡 Transforming complex problems into elegant code solutions.
 
 ### 🛠️ Tech Toolbox
-- 🔧 Proficient in [List Key Technologies/Skills].
+- 🔧 Proficient in Python, Deepspeed, Golang, TypeScript and C++.
 - 🛡️ Continuous integration enthusiast, ensuring code quality and reliability.
 - 📚 Lifelong learner, staying updated with the latest industry trends.
 
